@@ -1,0 +1,6 @@
+streamlit
+torch
+pillow
+pandas
+spotipy
+git+https://github.com/openai/CLIP.git
